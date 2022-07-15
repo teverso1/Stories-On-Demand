@@ -7,8 +7,8 @@ This program will enable one to create their own unique story based on inputs ma
 Terry Everson
 
 ## Roadmap
-- [ ] 
+- [ ] Review Story Generator with Python code to see if it works and how it works
 
-- [ ] 
+- [ ] Locate a tutorial that demonstrates user input generated stories
 
 - [ ] 
