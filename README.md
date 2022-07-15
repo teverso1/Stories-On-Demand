@@ -8,7 +8,11 @@ Terry Everson
 
 ## Roadmap
 - [ ] Review Story Generator with Python code to see if it works and how it works
-
 - [ ] Locate a tutorial that demonstrates user input generated stories
-
-- [ ] 
+- [ ] Identify the differences in the code to gain a better understanding of how you can merge them to accomplish your goal 
+- [ ] Attempt to merge sections of each code example and report any issues
+- [ ] Map out sections of story for the overall narrative that won't require user input
+- [ ] Select sections of the story that will require user input
+- [ ] Code sections and report any errors
+- [ ] Test out random inputs to ensure the generator is working  
+- [ ] Upload & Save
