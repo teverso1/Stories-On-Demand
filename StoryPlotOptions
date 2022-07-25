@@ -1,4 +1,7 @@
-#Test
+#TestStoryOption
+
+import random
+
 Start_Story = ['Over a decade ago', ' Years Ago', 'Long, Long, Ago', 'In a distant future']
 
 Main_Character = ['There lived a sad robot.',' There was an old, quiet man.',
@@ -15,3 +18,5 @@ Side_Character = [' they saw a squirrel', ' they met a rabbit']
 Age = [' looked to be very young', ' looking to be ancient']
 
 Action = [' climbing an infinite tree.', ' building a spaceship.']
+
+print(random.choice(start_story) + '....' + random.choice(main_character) + '....' + random.choice(time) + '...' + random.choice(location) + '.....' + random.choice(side_character) + '.....' + random.choice(age)  + '.....' + random.choice(action))
