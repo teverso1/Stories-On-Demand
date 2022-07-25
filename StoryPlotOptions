@@ -1,0 +1,17 @@
+#Test
+Start_Story = ['Over a decade ago', ' Years Ago', 'Long, Long, Ago', 'In a distant future']
+
+Main_Character = ['There lived a sad robot.',' There was an old, quiet man.',
+			'There was a little, happy bear.']
+
+Time = [' One foggy morning', ' A late, quiet night']
+
+Plot = [' they were hunting', ' they were searching for dark secrets ']
+
+Location = [' outer space', ' in a deep forest']
+
+Side_Character = [' they saw a squirrel', ' they met a rabbit']
+
+Age = [' looked to be very young', ' looking to be ancient']
+
+Action = [' climbing an infinite tree.', ' building a spaceship.']
